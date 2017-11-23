@@ -32,3 +32,5 @@ indicates that the coin with 1 leading 0 is adobra;kjsdfk11 and it is prefixed
 by the gatorlink ID vbiyani.
 
 The CPU utilisation should be 350% on a 4core machine.
+
+The project was done under professor Alin Dobra at University of Florida under Distributed System coursework.
